@@ -1,2 +1,3 @@
 # hello-world
-Guide
+
+This is a test message for the hello world tutorial.
